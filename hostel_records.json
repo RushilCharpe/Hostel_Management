@@ -1,0 +1,38 @@
+{
+    "433": {
+        "Name": "rushil charpe",
+        "Out Time": "1:00",
+        "Reason": "night out",
+        "In Time": null
+    },
+    "002": {
+        "Name": "vibhore patingrao",
+        "Out Time": "10:00",
+        "In Time": "12:00",
+        "Reason": "cla class"
+    },
+    "100": {
+        "Name": "shreya allewar",
+        "Out Time": "00",
+        "In Time": "00",
+        "Reason": "0"
+    },
+    "101": {
+        "Name": "palak dongre",
+        "Out Time": "00",
+        "In Time": "00",
+        "Reason": "0"
+    },
+    "103": {
+        "Name": "shravani shinde",
+        "Out Time": "00",
+        "In Time": "00",
+        "Reason": "0"
+    },
+    "106": {
+        "Name": "krish",
+        "Out Time": "00",
+        "In Time": "00",
+        "Reason": "0"
+    }
+}
